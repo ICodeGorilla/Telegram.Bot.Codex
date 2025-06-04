@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "AzureFunctions_IsolatedProcess_Webhook": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7071",
-      "launchBrowser": false
-    }
-  }
-}
